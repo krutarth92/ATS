@@ -29,5 +29,6 @@ Some of the tables are interconnected to share/Locate the Information
 -------- Sample Work --------
 
 > Heroku Git Clone Link: heroku git:clone -a floating-forest-60991
-> URL to test: https://floating-forest-60991.herokuapp.com/
-
+> URL to test: 
+  1> user application form: https://floating-forest-60991.herokuapp.com/
+  2> Job Info upload form: https://floating-forest-60991.herokuapp.com/company
