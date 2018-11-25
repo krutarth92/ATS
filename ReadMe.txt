@@ -11,11 +11,14 @@
 
 All the tables are creatred and maintained in AirTable Tool
 
-> Open Positions:
-> Applicatans Copy: 
-> Interviewers: 
-> Resume Parsing Result: 
-> Resume:
+> Open Positions:	recruter will add open positon's information to showcase on Jobboard
+> Applicatans Copy: Information from User inpout and revies from Interviewers
+> Interviewers: Info of Interviewer
+> Resume Parsing Result: Parsing of Resumes of Applicants from DOCParser
+> Resume: Resumes of all Applicants
+
+Some of the tables are interconnected to share/Locate the Information
+
 
 -------- Documents/Resume --------
 
